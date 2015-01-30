@@ -3,8 +3,8 @@ Introduction
 
 This script is a modified version of the the packet_sniffer_shay.py
 that came with SPSE course.
-
-
+  
+  
 ##### Differences from the original script:  
 1. The code was simplified, some functions were refactored, improved
 formatting.  
