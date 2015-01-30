@@ -26,14 +26,13 @@ python packet_sniffer.py host 192.168.1.15 tcp port 80
 
 Author
 ------
-Oleg Mitrofanov, 2015
+Oleg Mitrofanov, 2015  
 LinkedIn: http://linkedin.com/in/olegmitrofanov/
 
 References
 ----------
-IP reference: http://www.networksorcery.com/enp/protocol/ip.htm
-TCP reference: http://www.networksorcery.com/enp/protocol/tcp.htm
-
-Ethernet frame header format: http://en.wikipedia.org/wiki/Ethernet_frame
-IP header format: http://en.wikipedia.org/wiki/IPv4
-TCP header format: http://en.wikipedia.org/wiki/Transmission_Control_Protocol
+IP reference: http://www.networksorcery.com/enp/protocol/ip.htm  
+TCP reference: http://www.networksorcery.com/enp/protocol/tcp.htm  
+Ethernet frame header format: http://en.wikipedia.org/wiki/Ethernet_frame  
+IP header format: http://en.wikipedia.org/wiki/IPv4  
+TCP header format: http://en.wikipedia.org/wiki/Transmission_Control_Protocol  
