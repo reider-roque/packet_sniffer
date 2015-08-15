@@ -27,8 +27,7 @@ python packet_sniffer.py host 192.168.1.15 tcp port 80
 
 Author
 ------
-Oleg Mitrofanov, 2015  
-LinkedIn: http://linkedin.com/in/olegmitrofanov/
+Oleg Mitrofanov (reider-roque) 2015
 
 References
 ----------
